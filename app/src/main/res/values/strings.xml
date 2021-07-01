@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="newsText">News</string>
+    <string name="categoryTV">Category</string>
+    <string name="news_headingTV">News Heading</string>
+    <string name="sub_headingTV">Sub Heading</string>
+    <string name="title_AND">Title</string>
+    <string name="sub_description_AND">Sub Description</string>
+    <string name="content_AND">Content</string>
+    <string name="read_full_article_BTN">Read Full Article</string>
+</resources>
